@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ines</h1>
-<h3 align="center">Marketing Lead | Content Creator | Full-Stack Web Developer | Teacher & TA</h3>
+<h3 align="center"> Full-Stack Rails Web Developer | Teacher @ Le Wagon | Former Marketing Lead </h3>
 
 I’m a freelance marketer and web developer on the lookout for new challenges 🧐
 
