@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ines</h1>
 <h3 align="center">Marketing Lead | Content Creator | Full-Stack Web Developer | Teacher & TA</h3>
 
-I’m a freelance marketer and web developeer on the lookout for new challenges 🧐
+I’m a freelance marketer and web developer on the lookout for new challenges 🧐
 
 While working as a Marketing lead, I decided to deepen my skillset by learning how to code. I’ve completed Le Wagon full-stack bootcamp and I’m now teaching and assisting students in their learning journey.
 
