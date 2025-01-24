@@ -3,10 +3,13 @@
 
 <h4>My services<h4>
 
-👉 Build a prototype for your application or website
-👉 Create static web pages 
+<ul>
+<li>Build a prototype for your application or website</li>
+<li> Create static web pages </li>
 👉 Build full-stack web applications from scratch 
 👉 Advise on how to optimize the user experience and market your product 
+  
+</ul>
 
 <h4>About me<h4>
   
